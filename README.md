@@ -1,0 +1,2 @@
+# Trading-Software
+TWODS Capital 
